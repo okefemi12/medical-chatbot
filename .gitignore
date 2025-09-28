@@ -1,0 +1,33 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+my-env/
+venv/
+env/
+
+# Environment variables
+.env
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+
+# Logs
+*.log
+
+# Build/packaging
+*.egg-info/
+dist/
+build/
+
+# Vectorstore & data files
+vectorstore/
+data/
+
+# Other temporary files
+*.db
